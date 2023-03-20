@@ -1,4 +1,0 @@
-git remote add upstream https://www.github.com/DamienBlythers/4-Geeks-Academy.git
-git add .
-git commit -m "First version of the project ready"
-git push upstream main
